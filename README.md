@@ -1,4 +1,4 @@
-# social_media_app-Clone-Django
+# social_media_app
 This is a social media website built using django.
 
 # Setup Guide
